@@ -5,11 +5,11 @@ st.markdown("# Esse pequeno projeto visa automatizar a criação de containers n
 st.markdown("## Futuramente a idéia é melhorar essa automação com mais recursos")
 st.button("Visualizar projeto no Github",)
 
-home = Image.open("images/dockerpy/home.png")
-first_img = Image.open("images/dockerpy/1.png")
-second_img = Image.open("images/dockerpy/2.png")
-third_img = Image.open("images/dockerpy/3.png")
-fourth_img = Image.open("images/dockerpy/4.png")
+home = Image.open("images/dockereasy/menu.png")
+first_img = Image.open("images/dockereasy/1.png")
+second_img = Image.open("images/dockereasy/2.png")
+third_img = Image.open("images/dockereasy/3.png")
+fourth_img = Image.open("images/dockereasy/4.png")
 
 st.image(home)
 
